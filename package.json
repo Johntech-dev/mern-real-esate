@@ -2,11 +2,11 @@
   "name": "mern-real-estate",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "index.js",
   "type": "module",
   "scripts": {
-    "dev": "nodemon back-end/server.js",
-    "start": "node back-end/server.js"
+    "start": "node back-end/index.js",
+    "dev": "nodemon back-end/index.js"
   },
   "keywords": [],
   "author": "",
